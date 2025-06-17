@@ -4,8 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
 import numpy as np
-from dotenv import load_dotenv
-load_dotenv()
+
 
 from database import initialize_database, get_asado_service
 
