@@ -1,6 +1,4 @@
-[server]
-headless = true
-port = 8501
-enableCORS = false
+[database]
+url = "postgresql://postgres:BIWNyvSMuCHtttVflkGYajGckftguZmq@postgres.railway.internal:5432/railway"
 
 
